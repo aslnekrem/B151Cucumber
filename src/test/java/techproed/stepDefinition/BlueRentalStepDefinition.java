@@ -16,6 +16,7 @@ import java.util.Map;
 
 
 
+
 public class BlueRentalStepDefinition {
     BlueRentalPage blueRentalPage = new BlueRentalPage();
     @Then("kullanici login buttonuna tiklar")
