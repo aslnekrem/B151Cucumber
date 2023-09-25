@@ -13,6 +13,7 @@ public class BlueRentalPage {
     public WebElement loginButtonu;
     
 
+
     
 
     
