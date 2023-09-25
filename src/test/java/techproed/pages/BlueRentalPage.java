@@ -11,6 +11,7 @@ public class BlueRentalPage {
     }
     @FindBy(xpath = "(//a)[1]")
     public WebElement loginButtonu;
+    
 
     @FindBy(xpath = "//*[@type='email']")
     public WebElement emailBox;
