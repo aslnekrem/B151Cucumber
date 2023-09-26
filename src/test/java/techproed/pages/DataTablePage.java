@@ -13,9 +13,6 @@ public class DataTablePage {
     @FindBy(xpath = "(//button)[1]")
     public WebElement newButton;
     
-
-    
-    
     @FindBy (xpath = "//*[@id='DTE_Field_first_name']")
     public WebElement firstName;
 
